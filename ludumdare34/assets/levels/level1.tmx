@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" nextobjectid="32">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" nextobjectid="37">
  <properties>
   <property name="name" value="Level 1"/>
  </properties>
@@ -40,7 +40,26 @@
   <object id="26" x="112" y="80" width="16" height="32"/>
   <object id="27" x="128" y="96" width="16" height="16"/>
  </objectgroup>
- <objectgroup name="Objects"/>
+ <objectgroup name="Dots">
+  <object id="32" x="54.75" y="56.25" width="2" height="2">
+   <properties>
+    <property name="color" value="red"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="34" x="183.25" y="55.75" width="0.75" height="1.75">
+   <properties>
+    <property name="color" value="green"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="35" x="232.75" y="103" width="0.75" height="1.75">
+   <properties>
+    <property name="color" value="red"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn">
   <object id="30" x="119.25" y="73" width="1.5" height="1.25"/>
  </objectgroup>
