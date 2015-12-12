@@ -1,5 +1,15 @@
 d:assets:0:application/unknown
 i:test.png:1792:image/png
+i:dark_tile.png:163:image/png
+i:light_tile.png:163:image/png
+d:levels:0:application/unknown
+b:levels/level1.tmx:2019:application/unknown
+d:ui:0:application/unknown
+t:ui/font.fnt:206706:application/unknown
+i:ui/font_00.png:2292:image/png
+t:ui/uiskin.json:1422:application/unknown
+i:ui/uiskin.png:28299:image/png
+t:ui/uiskin.atlas:2923:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
